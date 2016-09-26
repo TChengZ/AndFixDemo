@@ -1,0 +1,13 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+AndFix/gradle/
+app/patch/smali/com/yang/tony/andfixdemo/MainActivity_CF.smali
+app/app-releaseNew.apk
+app/app-releaseOld.apk
+app/patch/app-releaseNew-a4142b08ac1919bbb29db6df2423cde5.apatch
+.idea/
